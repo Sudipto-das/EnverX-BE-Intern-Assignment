@@ -29,8 +29,8 @@ PUT blog/posts/:id - Update an existing blog post.
 DELETE blog/posts/:id - Delete a blog post.  
 
 ### token
-
-when  signup sucsess you get a token copy that and paste in Headers create a key "Authorization"
+open Postman
+when  signup success you get a token copy that and paste it into Headers to create a key "Authorization"
 do this Bearer token
 
 
