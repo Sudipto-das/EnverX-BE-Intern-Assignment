@@ -24,11 +24,17 @@ Follow the instructions below to set up and run the project on your local machin
 
 ### Api End Points
 POST auth/signup - Signup user
+
 POST auth/login - Login user 
+
 GET blog/posts - Get all blog posts.
+
 GET blog/posts/:id - Get a specific blog post by ID.
+
 POST blog/posts - Create a new blog post.
+
 PUT blog/posts/:id - Update an existing blog post.
+
 DELETE blog/posts/:id - Delete a blog post.  
 
 ### token
