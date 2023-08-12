@@ -17,10 +17,13 @@ Follow the instructions below to set up and run the project on your local machin
 
    ```bash
    git clone https://github.com/Sudipto-das/EnverX-BE-Intern-Assignment.git
+   
+  cd <cloned directory>
+  npm install to install all dependency
 
 
 ### Api End Points
-POST auth/signup - Signup user 
+POST auth/signup - Signup user
 POST auth/login - Login user 
 GET blog/posts - Get all blog posts.
 GET blog/posts/:id - Get a specific blog post by ID.
