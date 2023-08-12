@@ -40,6 +40,6 @@ DELETE blog/posts/:id - Delete a blog post.
 ### token
 open Postman
 when  signup success you get a token copy that and paste it into Headers to create a key "Authorization"
-do this Bearer token
+do this "Bearer token"
 
 
